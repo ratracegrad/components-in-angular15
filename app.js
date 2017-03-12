@@ -1,5 +1,1 @@
-var app = angular.module('caranddriver',
-  ['ui.bootstrap',
-    'ui.select'
-  ]
-);
+const app = angular.module('caranddriver', ['ui.bootstrap', 'ui.select']);
