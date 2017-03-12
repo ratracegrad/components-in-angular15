@@ -112,5 +112,4 @@ app.controller('ModelPickerCtrl', function() {
         images: []
       }
     };
-    // this.selectedModel = null;
 });
