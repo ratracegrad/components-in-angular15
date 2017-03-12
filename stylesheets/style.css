@@ -1,0 +1,13 @@
+.mm-header {
+    font: 700 26px/26px Helvetica,Arial,sans-serif;
+    margin: .9375rem 0;
+    color: #000;
+    letter-spacing: -.025rem;
+}
+
+.mm-sub-header {
+    margin-bottom: 1.25rem;
+    color: #666;
+    font: 14px/16px Helvetica,Arial,sans-serif;
+    letter-spacing: .02188rem;
+}
