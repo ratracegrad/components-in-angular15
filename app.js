@@ -1,1 +1,6 @@
-const app = angular.module('caranddriver', [  'ui.select']);
+angular.module('caranddriver', [  'ui.select'])
+.component('caranddriver', {
+  $routeConfig: [
+    { path: '/', component: ''}
+  ]
+})
